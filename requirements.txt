@@ -1,0 +1,5 @@
+pypdf
+langchain-huggingface
+hf_xet
+gradio~=5.42.0
+langchain~=0.3.25
