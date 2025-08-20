@@ -1,7 +1,8 @@
 # Multilingual PDF Study Copilot
 
 A web app that summarizes and answers questions about PDF documents in multiple languages. It can condense complex texts such as lecture notes, textbooks, or research papers into concise summaries, providing clear insights in the original language of the document.
-*As it runs locally, your data is 100% safe*
+
+**As it runs locally, your data is 100% safe**
 
 ![App](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Files-summarizer/main/Study%20Copilot.jpg)
 
