@@ -2,7 +2,7 @@
 
 A web app that summarizes and answers questions about PDF documents in multiple languages. It can condense complex texts such as lecture notes, textbooks, or research papers into concise summaries, providing clear insights in the original language of the document.
 
-![App](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Files-summarizer/main/Study%Copilot.jpg)
+![App](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Files-summarizer/main/Study%20Copilot.jpg)
 
 ---
 
