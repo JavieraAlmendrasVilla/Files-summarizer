@@ -4,7 +4,7 @@ A web app that summarizes and answers questions about PDF documents in multiple 
 
 **As it runs locally, your data is 100% safe**
 
-try the app here: [Study Copilot](https://huggingface.co/spaces/javiialmendras/StudyCopilot)
+**try the app here:** [Study Copilot](https://huggingface.co/spaces/javiialmendras/StudyCopilot)
 
 ![App](https://raw.githubusercontent.com/JavieraAlmendrasVilla/Files-summarizer/main/Study%20Copilot.jpg)
 
